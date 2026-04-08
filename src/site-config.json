@@ -1,0 +1,612 @@
+{
+  "business": {
+    "name": "South Beach Plumbing and HVAC Inc.",
+    "phone": "+13057755267",
+    "category": "plumbing company",
+    "city": "Miami",
+    "state": "FL"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Miami's Plumbing & HVAC Experts",
+      "heroSubline": "Decades of experience tackling South Florida's toughest plumbing challenges. We're ready for anything – from historic Art Deco repairs to modern condo installations.",
+      "aboutTitle": "Decades of Dependable Plumbing & HVAC in Miami",
+      "aboutText": [
+        "South Beach Plumbing and HVAC Inc. began as a small, family-run operation. We saw a need for reliable, honest plumbing services in the unique environment of Miami. From the start, we committed to quality workmanship and unwavering customer service.",
+        "Our approach is simple: diagnose accurately, communicate clearly, and execute flawlessly. We value integrity and transparency, ensuring our clients understand every step of the process. We're not just fixing pipes; we're building lasting relationships.",
+        "We're deeply invested in the Miami community. We actively support local initiatives and strive to minimize our environmental impact. We understand the challenges South Florida homeowners face, and we're dedicated to providing solutions that last."
+      ],
+      "valueProps": [
+        {
+          "title": "24/7 Emergency Service",
+          "description": "Plumbing disasters don't wait for business hours. We're available around the clock to handle any emergency."
+        },
+        {
+          "title": "Expert Technicians",
+          "description": "Our team comprises licensed and insured professionals with extensive experience in South Florida's unique plumbing systems."
+        },
+        {
+          "title": "Upfront Pricing",
+          "description": "No hidden fees or surprises. We provide clear, detailed estimates before any work begins."
+        },
+        {
+          "title": "Guaranteed Satisfaction",
+          "description": "We stand behind our work. If you're not completely satisfied, we'll make it right."
+        }
+      ],
+      "ctaHeadline": "Solve Your Plumbing Problems Now",
+      "ctaSubline": "Get a free estimate and experience the South Beach Plumbing and HVAC difference."
+    },
+    "services": [
+      {
+        "slug": "leak-detection",
+        "name": "Leak Detection",
+        "shortDescription": "Pinpointing hidden leaks to prevent costly water damage.",
+        "description": "Water leaks in Miami-Dade County can be especially destructive, causing structural damage in CBS homes and fostering mold growth in humid conditions. Our advanced leak detection services use cutting-edge technology to accurately locate hidden leaks behind walls, under floors, and in ceilings. We employ acoustic sensors, thermal imaging, and pressure testing to identify the source of the problem with minimal disruption to your property. Once the leak is located, we provide a detailed report and recommend the most effective repair solutions. Don't let a small drip turn into a major disaster – early detection is key to saving time and money. We handle everything from slab leaks in Coral Gables to pipe corrosion issues common near the coast.",
+        "process": [
+          "Step 1: Initial Assessment - We gather information about the suspected leak and conduct a visual inspection.",
+          "Step 2: Advanced Diagnostics - Using specialized equipment, we pinpoint the exact location of the leak.",
+          "Step 3: Detailed Report - We provide a comprehensive report outlining the findings and recommended repairs.",
+          "Step 4: Repair Solutions - We offer a range of repair options tailored to your specific needs and budget."
+        ],
+        "benefits": [
+          "Prevent structural damage",
+          "Reduce water bills",
+          "Eliminate mold growth",
+          "Protect your property value"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if I have a hidden leak?",
+            "answer": "Signs of a hidden leak include unexplained increases in your water bill, damp spots on walls or ceilings, and the sound of running water when no fixtures are in use."
+          },
+          {
+            "question": "What technology do you use for leak detection?",
+            "answer": "We use a combination of acoustic sensors, thermal imaging cameras, and pressure testing equipment to accurately locate leaks without destructive methods."
+          },
+          {
+            "question": "How much does leak detection cost?",
+            "answer": "The cost of leak detection varies depending on the complexity of the situation. We offer free estimates to assess your specific needs."
+          }
+        ]
+      },
+      {
+        "slug": "drain-cleaning",
+        "name": "Drain Cleaning",
+        "shortDescription": "Clearing clogged drains quickly and effectively, restoring proper flow.",
+        "description": "Slow or blocked drains in Miami are often caused by a build-up of hair, grease, and debris. South Beach Plumbing and HVAC Inc. offers comprehensive drain cleaning services to clear even the toughest clogs. We use a variety of methods, including snaking, hydro-jetting, and enzymatic drain cleaners, to ensure your drains are flowing freely. Hydro-jetting is particularly effective for removing stubborn blockages in older pipes common in areas like South Beach and Coconut Grove. We address everything from simple sink clogs to major sewer line blockages, preventing potential backups and water damage. Our skilled technicians will diagnose the cause of the blockage and recommend the most appropriate solution for your specific plumbing system. Regular drain cleaning can prevent costly repairs and maintain the integrity of your plumbing.",
+        "process": [
+          "Step 1: Inspection - We assess the drain to identify the cause and location of the blockage.",
+          "Step 2: Clearing the Clog - We use appropriate methods such as snaking or hydro-jetting to remove the blockage.",
+          "Step 3: Verification - We ensure the drain is flowing freely and inspect for any remaining issues.",
+          "Step 4: Prevention Tips - We provide recommendations to prevent future clogs and maintain drain health."
+        ],
+        "benefits": [
+          "Restore proper drain flow",
+          "Prevent backups",
+          "Eliminate foul odors",
+          "Extend the life of your plumbing"
+        ],
+        "faq": [
+          {
+            "question": "What causes clogged drains?",
+            "answer": "Clogged drains are often caused by a build-up of hair, grease, food particles, and other debris. In older homes, corroded pipes can also contribute to blockages."
+          },
+          {
+            "question": "What is hydro-jetting?",
+            "answer": "Hydro-jetting uses high-pressure water to blast away stubborn blockages and debris from the inside of your pipes. It's a highly effective method for clearing even the toughest clogs."
+          },
+          {
+            "question": "How often should I have my drains cleaned?",
+            "answer": "We recommend having your drains professionally cleaned at least once a year to prevent blockages and maintain optimal plumbing performance."
+          }
+        ]
+      },
+      {
+        "slug": "water-heater-services",
+        "name": "Water Heater Services",
+        "shortDescription": "Expert repairs, replacements, and installations of all types of water heaters.",
+        "description": "South Beach Plumbing and HVAC Inc. provides comprehensive water heater services throughout Miami, FL. We understand the importance of a reliable hot water supply, especially in the humid climate where showers are frequent. Whether you have a traditional tank water heater or a modern tankless system, our experienced technicians can handle any repair, replacement, or new installation. We work with all major brands and models, and we're familiar with the specific challenges of installing water heaters in older Art Deco buildings and newer condo developments. We also offer water heater maintenance services to extend the life of your unit and prevent costly breakdowns. From fixing a faulty thermostat to replacing a corroded tank, we'll ensure you have a consistent and efficient hot water supply.",
+        "process": [
+          "Step 1: Diagnosis - We diagnose the issue with your water heater and provide a detailed explanation of the problem.",
+          "Step 2: Repair or Replacement - We recommend the best course of action based on the age and condition of your water heater.",
+          "Step 3: Installation - We ensure your new water heater is installed correctly and safely.",
+          "Step 4: Testing and Calibration - We test the new water heater to ensure it's functioning properly."
+        ],
+        "benefits": [
+          "Reliable hot water supply",
+          "Energy efficiency",
+          "Extended water heater lifespan",
+          "Safe and professional installation"
+        ],
+        "faq": [
+          {
+            "question": "How long does a water heater typically last?",
+            "answer": "The lifespan of a water heater typically ranges from 8 to 12 years, depending on the model and maintenance. Tankless water heaters can last even longer, up to 20 years."
+          },
+          {
+            "question": "What are the signs that my water heater needs to be replaced?",
+            "answer": "Signs that your water heater needs to be replaced include rusty water, strange noises, leaks, and inconsistent water temperature."
+          },
+          {
+            "question": "Should I choose a tank or tankless water heater?",
+            "answer": "Tankless water heaters offer on-demand hot water and energy savings, while tank water heaters are generally more affordable upfront. The best choice depends on your specific needs and budget."
+          }
+        ]
+      },
+      {
+        "slug": "pipe-repair-replacement",
+        "name": "Pipe Repair & Replacement",
+        "shortDescription": "Addressing leaks, corrosion, and damage with expert pipe solutions.",
+        "description": "South Beach Plumbing and HVAC Inc. specializes in pipe repair and replacement services throughout Miami, Florida. The corrosive salt air and aging infrastructure in Miami-Dade County can lead to pipe leaks, corrosion, and other plumbing problems. We offer a full range of pipe services, including leak repair, pipe replacement, and pipe rerouting. We work with all types of piping, including copper, PVC, and PEX, and we use the latest techniques to ensure durable and long-lasting repairs. Whether you have a pinhole leak in a copper pipe or a burst sewer line, our experienced technicians can quickly and effectively resolve the issue. We understand the urgency of pipe repairs and offer 24/7 emergency service to minimize water damage and prevent further problems.",
+        "process": [
+          "Step 1: Inspection - We assess the damaged pipe to determine the best course of action.",
+          "Step 2: Repair or Replacement - We repair or replace the damaged section of pipe using appropriate materials and techniques.",
+          "Step 3: Pressure Testing - We pressure test the repaired or replaced pipe to ensure it's leak-free.",
+          "Step 4: Restoration - We restore any affected areas to their original condition."
+        ],
+        "benefits": [
+          "Prevent water damage",
+          "Restore water pressure",
+          "Eliminate leaks",
+          "Ensure clean water supply"
+        ],
+        "faq": [
+          {
+            "question": "What are the signs of a leaking pipe?",
+            "answer": "Signs of a leaking pipe include water stains on walls or ceilings, damp spots on floors, and a musty odor."
+          },
+          {
+            "question": "What types of pipes do you work with?",
+            "answer": "We work with all types of piping, including copper, PVC, PEX, and galvanized steel."
+          },
+          {
+            "question": "How much does pipe repair or replacement cost?",
+            "answer": "The cost of pipe repair or replacement varies depending on the extent of the damage and the type of pipe. We offer free estimates to assess your specific needs."
+          }
+        ]
+      },
+      {
+        "slug": "fixture-installation",
+        "name": "Fixture Installation",
+        "shortDescription": "Professional installation of faucets, sinks, toilets, showers, and more.",
+        "description": "Upgrading your fixtures can enhance the look and functionality of your Miami home. South Beach Plumbing and HVAC Inc. provides expert fixture installation services for faucets, sinks, toilets, showers, and more. Whether you're renovating your entire bathroom or simply replacing a leaky faucet, our skilled technicians will ensure a seamless and professional installation. We handle all aspects of the installation process, from removing the old fixture to connecting the new one and ensuring proper drainage. We work with all major brands and models, and we're familiar with the specific plumbing requirements of different types of fixtures. We also offer guidance on selecting the right fixtures for your needs and budget. From modernizing a condo in Brickell to updating a classic home in Coral Gables, we'll transform your space with beautiful and functional fixtures.",
+        "process": [
+          "Step 1: Consultation - We discuss your fixture installation needs and provide recommendations.",
+          "Step 2: Removal of Old Fixture - We safely remove the old fixture without damaging surrounding surfaces.",
+          "Step 3: Installation of New Fixture - We install the new fixture according to manufacturer specifications.",
+          "Step 4: Testing and Calibration - We test the new fixture to ensure it's functioning properly."
+        ],
+        "benefits": [
+          "Enhanced aesthetics",
+          "Improved functionality",
+          "Increased water efficiency",
+          "Professional installation"
+        ],
+        "faq": [
+          {
+            "question": "Do I need a permit to install new plumbing fixtures?",
+            "answer": "In some cases, a permit may be required for plumbing fixture installations. We can advise you on the permit requirements in your area."
+          },
+          {
+            "question": "Can you help me choose the right fixtures for my bathroom or kitchen?",
+            "answer": "Yes, we can provide guidance on selecting the right fixtures based on your style preferences, budget, and water efficiency needs."
+          },
+          {
+            "question": "How long does it take to install a new toilet?",
+            "answer": "The installation of a new toilet typically takes 1-2 hours, depending on the complexity of the installation."
+          }
+        ]
+      },
+      {
+        "slug": "sewer-services",
+        "name": "Sewer Line Services",
+        "shortDescription": "Comprehensive sewer line inspection, repair, and replacement solutions.",
+        "description": "South Beach Plumbing and HVAC Inc. offers comprehensive sewer line services to address the unique challenges faced by Miami homeowners. From older homes in Little Havana to newer developments, sewer line issues can arise due to tree root intrusion, corrosion, or ground shifting. We provide a range of sewer line services, including video inspection, trenchless repair, and traditional replacement. Video inspection allows us to accurately diagnose the problem and determine the most effective solution. Trenchless repair methods minimize disruption to your property, while traditional replacement is necessary for severely damaged sewer lines. We understand the importance of a properly functioning sewer line and offer 24/7 emergency service to address urgent issues. Our experienced technicians will ensure your sewer line is operating efficiently and reliably.",
+        "process": [
+          "Step 1: Video Inspection - We use a camera to inspect the sewer line and identify any problems.",
+          "Step 2: Diagnosis - We diagnose the cause of the sewer line issue and recommend the best solution.",
+          "Step 3: Repair or Replacement - We repair or replace the sewer line using appropriate methods and materials.",
+          "Step 4: Testing and Verification - We test the repaired or replaced sewer line to ensure it's functioning properly."
+        ],
+        "benefits": [
+          "Prevent sewer backups",
+          "Eliminate foul odors",
+          "Protect your property",
+          "Ensure proper waste disposal"
+        ],
+        "faq": [
+          {
+            "question": "What are the signs of a sewer line problem?",
+            "answer": "Signs of a sewer line problem include sewage backups, slow drains, foul odors, and gurgling sounds in your plumbing."
+          },
+          {
+            "question": "What is trenchless sewer repair?",
+            "answer": "Trenchless sewer repair is a method of repairing or replacing sewer lines without digging a trench. It involves using specialized equipment to insert a new pipe inside the old one."
+          },
+          {
+            "question": "How much does sewer line repair or replacement cost?",
+            "answer": "The cost of sewer line repair or replacement varies depending on the extent of the damage and the method used. We offer free estimates to assess your specific needs."
+          }
+        ]
+      },
+      {
+        "slug": "emergency-plumbing",
+        "name": "Emergency Plumbing Services",
+        "shortDescription": "24/7 rapid response for all your urgent plumbing needs in Miami.",
+        "description": "Plumbing emergencies don't wait for convenient hours, and neither do we. South Beach Plumbing and HVAC Inc. provides 24/7 emergency plumbing services throughout Miami, FL. Whether it's a burst pipe in the middle of the night or a overflowing toilet on a holiday, our experienced technicians are ready to respond quickly and effectively. We understand the stress and disruption that plumbing emergencies can cause, and we're committed to minimizing the damage and restoring your peace of mind. We handle all types of plumbing emergencies, including burst pipes, sewer backups, water heater failures, and gas leaks. Our rapid response team is equipped with the latest tools and technology to diagnose and resolve the issue quickly and efficiently. We're your reliable partner for any plumbing emergency, day or night.",
+        "process": [
+          "Step 1: Immediate Response - We answer your call promptly and dispatch a technician to your location.",
+          "Step 2: Assessment - We assess the situation and determine the extent of the damage.",
+          "Step 3: Containment - We take immediate steps to contain the damage and prevent further problems.",
+          "Step 4: Repair - We repair the plumbing issue using appropriate methods and materials."
+        ],
+        "benefits": [
+          "Rapid response",
+          "Minimized damage",
+          "Peace of mind",
+          "24/7 availability"
+        ],
+        "faq": [
+          {
+            "question": "What constitutes a plumbing emergency?",
+            "answer": "A plumbing emergency is any situation that poses an immediate threat to your property or safety, such as a burst pipe, sewer backup, or gas leak."
+          },
+          {
+            "question": "How quickly can you respond to a plumbing emergency?",
+            "answer": "We strive to respond to plumbing emergencies within 60 minutes, depending on your location and the availability of our technicians."
+          },
+          {
+            "question": "What should I do while waiting for the plumber to arrive?",
+            "answer": "While waiting for the plumber to arrive, turn off the water supply to the affected area, if possible, and try to contain the damage."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Fort Lauderdale",
+        "slug": "fort-lauderdale-fl",
+        "state": "FL",
+        "content": "South Beach Plumbing and HVAC Inc. is proud to offer comprehensive plumbing and HVAC services to the residents and businesses of Fort Lauderdale, Florida. With its unique mix of 1960s and 70s waterfront homes, the plumbing and HVAC systems in Fort Lauderdale require specialized knowledge and care. Our experienced technicians are well-versed in the common issues that affect these properties, from aging pipes to inefficient air conditioning systems struggling to keep up with the year-round heat and humidity.\n\nWe understand the importance of maintaining a comfortable and functional home or business in Fort Lauderdale. Whether you need a routine plumbing inspection, an emergency AC repair, or a complete HVAC system replacement, South Beach Plumbing and HVAC Inc. is here to provide reliable and affordable solutions. We are committed to delivering exceptional customer service and ensuring your satisfaction.",
+        "localContext": "Fort Lauderdale's waterfront homes, built primarily in the 1960s and 70s, require specialized plumbing and HVAC maintenance due to the climate and age of the infrastructure.",
+        "nearbyAreas": [
+          "Oakland Park",
+          "Wilton Manors",
+          "Lauderdale-by-the-Sea"
+        ]
+      },
+      {
+        "city": "Coral Springs",
+        "slug": "coral-springs-fl",
+        "state": "FL",
+        "content": "South Beach Plumbing and HVAC Inc. is dedicated to providing top-quality plumbing and HVAC services to the community of Coral Springs, Florida. As a planned community with homes primarily built in the 1980s and 90s, Coral Springs presents unique challenges and opportunities for plumbing and HVAC systems. Our team is experienced in working with the infrastructure common to this area, ensuring efficient and reliable solutions for your home or business.\n\nWe are committed to keeping your systems running smoothly throughout the year. From routine maintenance to emergency repairs, South Beach Plumbing and HVAC Inc. is your trusted partner for all your plumbing and HVAC needs in Coral Springs. We understand the importance of prompt and professional service, especially during the hot and humid Florida summers.",
+        "localContext": "Coral Springs, a planned community with homes mainly constructed in the 1980s and 90s, requires plumbing and HVAC services tailored to the area's specific infrastructure and climate.",
+        "nearbyAreas": [
+          "Parkland",
+          "Coconut Creek",
+          "Margate"
+        ]
+      },
+      {
+        "city": "Pembroke Pines",
+        "slug": "pembroke-pines-fl",
+        "state": "FL",
+        "content": "South Beach Plumbing and HVAC Inc. proudly serves the residents and businesses of Pembroke Pines, Florida, offering a full range of plumbing and HVAC services. Known for its planned developments built primarily in the 1990s, Pembroke Pines has a unique residential landscape that requires specialized knowledge of plumbing and HVAC systems. Our team is equipped to handle the common issues found in these homes, ensuring optimal performance and efficiency. \n\nWe understand the importance of reliable plumbing and HVAC, especially in the face of Florida's year-round heat and humidity. South Beach Plumbing and HVAC Inc. is committed to providing prompt, professional, and affordable solutions to keep your home or business comfortable and functional. Whether it's a leaky faucet or a complete HVAC system overhaul, we're here to help.",
+        "localContext": "Pembroke Pines, characterized by planned developments from the 1990s, needs plumbing and HVAC services familiar with the area's common building styles and climate considerations.",
+        "nearbyAreas": [
+          "Miramar",
+          "Weston",
+          "Davie"
+        ]
+      },
+      {
+        "city": "Boca Raton",
+        "slug": "boca-raton-fl",
+        "state": "FL",
+        "content": "South Beach Plumbing and HVAC Inc. offers premier plumbing and HVAC services to the discerning residents of Boca Raton, Florida. Known for its luxury waterfront estates and upscale properties, Boca Raton demands the highest level of expertise and professionalism. Our team is experienced in working with high-end plumbing and HVAC systems, ensuring optimal performance and efficiency in even the most demanding environments.\n\nWe understand the importance of maintaining a comfortable and luxurious lifestyle in Boca Raton. South Beach Plumbing and HVAC Inc. is committed to providing exceptional customer service and delivering solutions that meet the unique needs of our clients. From routine maintenance to complex repairs, we are your trusted partner for all your plumbing and HVAC needs.",
+        "localContext": "Boca Raton's luxury waterfront estates require specialized plumbing and HVAC services to maintain the integrity and comfort of these high-end properties in a challenging climate.",
+        "nearbyAreas": [
+          "Delray Beach",
+          "Highland Beach",
+          "Deerfield Beach"
+        ]
+      },
+      {
+        "city": "West Palm Beach",
+        "slug": "west-palm-beach-fl",
+        "state": "FL",
+        "content": "South Beach Plumbing and HVAC Inc. is pleased to offer comprehensive plumbing and HVAC services to the residents and businesses of West Palm Beach, Florida. With its rich history and collection of 1920s-50s historic homes, West Palm Beach presents unique challenges for plumbing and HVAC systems. Our experienced technicians are skilled in working with older infrastructure, ensuring reliable and efficient solutions that respect the character of these properties.\n\nWe understand the importance of preserving the charm and functionality of your home or business in West Palm Beach. Whether you need to repair or replace aging pipes, upgrade your AC system, or address any other plumbing or HVAC issue, South Beach Plumbing and HVAC Inc. is here to provide expert service and exceptional customer care.",
+        "localContext": "West Palm Beach, with its historic homes dating back to the 1920s-50s, requires plumbing and HVAC services that understand the complexities of older infrastructure and the need for preservation.",
+        "nearbyAreas": [
+          "Palm Beach",
+          "Lake Worth",
+          "Riviera Beach"
+        ]
+      },
+      {
+        "city": "Miami",
+        "slug": "miami-fl",
+        "state": "FL",
+        "content": "South Beach Plumbing and HVAC Inc. provides expert plumbing and HVAC services throughout Miami, Florida. From bustling downtown condos to historic neighborhoods, Miami's diverse architecture requires a skilled team to handle any plumbing or HVAC challenge. We're equipped to address the unique needs of Miami residents and businesses, ensuring comfort and efficiency year-round.\n\nWe understand the demands of Miami's climate and the importance of reliable systems. Whether it's a leaky pipe in Little Havana or a broken AC unit in Brickell, South Beach Plumbing and HVAC Inc. is committed to providing prompt, professional, and affordable solutions.",
+        "localContext": "Miami's diverse architecture and vibrant climate demand a plumbing and HVAC service that can handle a wide range of challenges, from historic buildings to modern high-rises.",
+        "nearbyAreas": [
+          "Miami Beach",
+          "Coral Gables",
+          "Hialeah"
+        ]
+      },
+      {
+        "city": "Hialeah",
+        "slug": "hialeah-fl",
+        "state": "FL",
+        "content": "South Beach Plumbing and HVAC Inc. is proud to serve the residents and businesses of Hialeah, Florida, offering reliable and affordable plumbing and HVAC services. Hialeah's unique blend of residential and commercial properties requires a skilled team that understands the specific needs of the community. We are committed to providing exceptional service and ensuring your complete satisfaction.\n\nWe understand the importance of keeping your plumbing and HVAC systems running smoothly, especially during the hot and humid Florida summers. From routine maintenance to emergency repairs, South Beach Plumbing and HVAC Inc. is your trusted partner for all your plumbing and HVAC needs in Hialeah.",
+        "localContext": "Hialeah requires plumbing and HVAC services familiar with the city's unique blend of residential and commercial properties, as well as the demands of the Florida climate.",
+        "nearbyAreas": [
+          "Miami Lakes",
+          "Doral",
+          "Hialeah Gardens"
+        ]
+      },
+      {
+        "city": "Miami Gardens",
+        "slug": "miami-gardens-fl",
+        "state": "FL",
+        "content": "South Beach Plumbing and HVAC Inc. is dedicated to providing top-quality plumbing and HVAC services to the community of Miami Gardens, Florida. We understand the importance of reliable systems, especially in a climate like South Florida's. Our team is experienced in handling a wide range of plumbing and HVAC issues, ensuring efficient and affordable solutions for your home or business.\n\nWe are committed to providing prompt, professional service and ensuring your complete satisfaction. Whether you need a routine inspection, an emergency repair, or a complete system replacement, South Beach Plumbing and HVAC Inc. is here to help you stay comfortable and functional year-round.",
+        "localContext": "Miami Gardens needs plumbing and HVAC services that are responsive to the community's needs and prepared to handle the challenges of the Florida climate.",
+        "nearbyAreas": [
+          "North Miami",
+          "Opa-locka",
+          "Miramar"
+        ]
+      },
+      {
+        "city": "Hollywood",
+        "slug": "hollywood-fl",
+        "state": "FL",
+        "content": "South Beach Plumbing and HVAC Inc. is proud to offer comprehensive plumbing and HVAC services to the residents and businesses of Hollywood, Florida. With its diverse range of properties, from beachfront condos to single-family homes, Hollywood presents a variety of plumbing and HVAC needs. Our experienced technicians are equipped to handle any challenge, ensuring optimal performance and efficiency.\n\nWe understand the importance of maintaining a comfortable and functional home or business in Hollywood. Whether you need a routine plumbing inspection, an emergency AC repair, or a complete HVAC system replacement, South Beach Plumbing and HVAC Inc. is here to provide reliable and affordable solutions.",
+        "localContext": "Hollywood's diverse properties, ranging from beachfront condos to single-family homes, require plumbing and HVAC services that can adapt to a variety of needs and challenges.",
+        "nearbyAreas": [
+          "Hallandale Beach",
+          "Dania Beach",
+          "Pembroke Pines"
+        ]
+      },
+      {
+        "city": "Miramar",
+        "slug": "miramar-fl",
+        "state": "FL",
+        "content": "South Beach Plumbing and HVAC Inc. is committed to providing top-notch plumbing and HVAC services to the residents and businesses of Miramar, Florida. As a growing community with a mix of residential and commercial properties, Miramar requires a plumbing and HVAC provider that is reliable, responsive, and experienced. Our team is dedicated to delivering exceptional service and ensuring your complete satisfaction.\n\nWe understand the importance of keeping your plumbing and HVAC systems running smoothly, especially during the hot and humid Florida months. From routine maintenance to emergency repairs, South Beach Plumbing and HVAC Inc. is your trusted partner for all your plumbing and HVAC needs in Miramar.",
+        "localContext": "Miramar's mix of residential and commercial properties requires plumbing and HVAC services that are reliable, responsive, and experienced in handling a variety of needs.",
+        "nearbyAreas": [
+          "Pembroke Pines",
+          "Weston",
+          "Pembroke Park"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "Water Heater Replacement",
+        "text": "South Beach Plumbing replaced my old water heater quickly and efficiently. They were very professional and explained everything clearly. The price was fair, and the new water heater works great. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Drain Cleaning",
+        "text": "My kitchen sink was completely clogged. South Beach Plumbing came out the same day and cleared the drain quickly. The technician was friendly and knowledgeable. I appreciate their prompt service.",
+        "date": "2025-02-28"
+      },
+      {
+        "name": "Sarah L.",
+        "rating": 5,
+        "service": "Leak Detection & Repair",
+        "text": "I suspected a water leak in my bathroom. South Beach Plumbing used advanced equipment to find the leak behind the wall. They repaired it without causing any further damage. I'm very impressed with their expertise.",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "Ricardo M.",
+        "rating": 5,
+        "service": "Emergency Plumbing",
+        "text": "A pipe burst in my condo at 2 AM. South Beach Plumbing responded within an hour and stopped the flooding. They were lifesavers! I'm so grateful for their quick and reliable service.",
+        "date": "2024-12-24"
+      },
+      {
+        "name": "Jennifer S.",
+        "rating": 4,
+        "service": "Toilet Installation",
+        "text": "South Beach Plumbing installed a new toilet in my powder room. The installation was smooth and professional. The technician was courteous and cleaned up everything afterward. I'm very happy with the results.",
+        "date": "2024-11-18"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Sewer Line Repair",
+        "text": "I had a major sewer line issue that was causing backups in my yard. South Beach Plumbing provided a thorough inspection and recommended a trenchless repair method. The repair was completed quickly and efficiently, with minimal disruption to my property. I highly recommend their sewer line services.",
+        "date": "2024-10-05"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Miami Plumbing & HVAC | South Beach Plumbing",
+        "description": "Miami's trusted plumbing and HVAC experts. 24/7 emergency service, expert technicians, and upfront pricing. Call us today!"
+      },
+      "about": {
+        "title": "About Us | South Beach Plumbing & HVAC Miami",
+        "description": "Learn about South Beach Plumbing & HVAC's commitment to quality, integrity, and community in Miami, Florida."
+      },
+      "services": {
+        "title": "Plumbing & HVAC Services | Miami, FL",
+        "description": "Comprehensive plumbing and HVAC services in Miami. Leak detection, drain cleaning, water heaters, pipe repair & more."
+      },
+      "contact": {
+        "title": "Contact Us | South Beach Plumbing & HVAC",
+        "description": "Contact South Beach Plumbing & HVAC for reliable plumbing services in Miami, FL. Get a free estimate today!"
+      },
+      "reviews": {
+        "title": "Customer Reviews | South Beach Plumbing & HVAC",
+        "description": "Read what our satisfied customers say about South Beach Plumbing & HVAC's plumbing services in Miami, Florida."
+      },
+      "service-areas": {
+        "title": "Service Areas | South Beach Plumbing & HVAC",
+        "description": "South Beach Plumbing & HVAC provides plumbing services throughout Miami-Dade and Broward County, Florida."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 15,
+      "projectsCompleted": "1200+",
+      "satisfaction": "98%",
+      "teamSize": "25+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "leak-detection": "/images/service-leak-detection.webp",
+      "drain-cleaning": "/images/service-drain-cleaning.webp",
+      "water-heater-services": "/images/service-water-heater-services.webp",
+      "pipe-repair-replacement": "/images/service-pipe-repair-replacement.webp",
+      "fixture-installation": "/images/service-fixture-installation.webp",
+      "sewer-services": "/images/service-sewer-services.webp",
+      "emergency-plumbing": "/images/service-emergency-plumbing.webp"
+    },
+    "servicesResponsive": {
+      "leak-detection": {
+        "src": "/images/service-leak-detection.webp",
+        "srcset": "/images/service-leak-detection-400w.webp 400w, /images/service-leak-detection-800w.webp 800w, /images/service-leak-detection-1200w.webp 1200w, /images/service-leak-detection.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "drain-cleaning": {
+        "src": "/images/service-drain-cleaning.webp",
+        "srcset": "/images/service-drain-cleaning-400w.webp 400w, /images/service-drain-cleaning-800w.webp 800w, /images/service-drain-cleaning-1200w.webp 1200w, /images/service-drain-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "water-heater-services": {
+        "src": "/images/service-water-heater-services.webp",
+        "srcset": "/images/service-water-heater-services-400w.webp 400w, /images/service-water-heater-services-800w.webp 800w, /images/service-water-heater-services-1200w.webp 1200w, /images/service-water-heater-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "pipe-repair-replacement": {
+        "src": "/images/service-pipe-repair-replacement.webp",
+        "srcset": "/images/service-pipe-repair-replacement-400w.webp 400w, /images/service-pipe-repair-replacement-800w.webp 800w, /images/service-pipe-repair-replacement-1200w.webp 1200w, /images/service-pipe-repair-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fixture-installation": {
+        "src": "/images/service-fixture-installation.webp",
+        "srcset": "/images/service-fixture-installation-400w.webp 400w, /images/service-fixture-installation-800w.webp 800w, /images/service-fixture-installation-1200w.webp 1200w, /images/service-fixture-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "sewer-services": {
+        "src": "/images/service-sewer-services.webp",
+        "srcset": "/images/service-sewer-services-400w.webp 400w, /images/service-sewer-services-800w.webp 800w, /images/service-sewer-services-1200w.webp 1200w, /images/service-sewer-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "emergency-plumbing": {
+        "src": "/images/service-emergency-plumbing.webp",
+        "srcset": "/images/service-emergency-plumbing-400w.webp 400w, /images/service-emergency-plumbing-800w.webp 800w, /images/service-emergency-plumbing-1200w.webp 1200w, /images/service-emergency-plumbing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
